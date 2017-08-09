@@ -1,0 +1,43 @@
+var responseModel ={
+"State":"1200",
+"ObjInfo":{
+"Money":"15200",
+"List":{
+
+"16f46844307a4484b315easdfsdfc":{
+"OperationDate":"2014/01/14 18:00",
+"Payer":"Andy.chen",
+"ObjName":"深圳平安大厦建模",
+"TransactionAmount":"- 1500",
+"Comment":"BIMSoho网支付项目款",
+"IsPay":false},
+
+"16f46844307a4484b2315easdfsdfc":{
+"OperationDate":"2014/01/14 18:00",
+"Payer":"Andy.chen",
+"ObjName":"深圳平安大厦建模",
+"TransactionAmount":"- 1500",
+"Comment":"BIMSoho网支付项目款",
+"IsPay":false},
+
+"16f46844307a4484b315easdfsdfd":{
+"OperationDate":"2014/01/14 18:00",
+"Payer":"BIMSoho",
+"ObjName":"深圳平安大厦建模",
+"TransactionAmount":"+ 1500",
+"Comment":"项目款退还",
+"IsPay":true}
+
+
+}
+
+
+}
+}
+
+
+
+
+
+
+怎么获取list ID里面的属性呢，OperationDate，Payer，ObjName，TransactionAmount这些属性的值，求大神急求
